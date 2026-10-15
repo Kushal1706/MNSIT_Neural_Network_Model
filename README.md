@@ -121,9 +121,9 @@ At iteration 0 the network is guessing (about 10% is chance level). Accuracy jum
 
 | Dataset  | Images | Accuracy |
 |----------|--------|----------|
-| Train    | 59,000 | XX.XX%   |
-| Dev      | 1,000  | XX.XX%   |
-| **Test** | 10,000 | **XX.XX%** |
+| Train    | 59,000 | 91.66%   |
+| Dev      | 1,000  | 90.50%   |
+| **Test** | 10,000 | **91.81%** |
 
 The small gap between training and test accuracy shows the model generalizes to digits it has never seen rather than memorizing the training set.
 
